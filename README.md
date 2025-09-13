@@ -31,7 +31,7 @@ where `G_t` is the discounted return from step `t`.
 
 Training curve (win rate vs episodes):
 
-<img width="720" height="480" alt="Screenshot 2025-09-13 at 2 42 30 PM" src="https://github.com/user-attachments/assets/1b431fb2-d5da-46f4-9427-5784421c8e9d" />
+<img width="1157" height="478" alt="Screenshot 2025-09-13 at 3 02 03 PM" src="https://github.com/user-attachments/assets/dda807b4-9808-4a1d-9021-386c3457fb65" />
 
 
 Example game played by the AI agent:
